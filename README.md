@@ -11,7 +11,7 @@ An optical fiber can be represented approximately by a linear system with an imp
 
 If the optical source has a spectral width much greater than the signal bandwidth (e.g., the source is a directly modulated laser diode) and the operating wavelength is far from the zero-dispersion wavelength, then \(H(j\omega)\) is approximately Gaussian:
 
-<img width="1482" height="1120" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
+<img width="700" height="520" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
 
 
 ---
@@ -19,7 +19,7 @@ If the optical source has a spectral width much greater than the signal bandwidt
 ### Output Pulse Broadening
 If a Gaussian pulse is input to a linear system with a Gaussian impulse response, the output is also Gaussian with RMS width:
 
-<img width="340" height="102" alt="image" src="https://github.com/user-attachments/assets/c60d35c1-8a0f-4c50-873d-1314ec59a29f" />
+<img width="260" height="80" alt="image" src="https://github.com/user-attachments/assets/c60d35c1-8a0f-4c50-873d-1314ec59a29f" />
 
 
 
@@ -38,7 +38,7 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 | | Length | 50 km |
 
 **Required Calculations:**
-<img width="1548" height="298" alt="image" src="https://github.com/user-attachments/assets/b2fb676a-afb0-48ef-914b-309b2ea38a17" />
+<img width="700" height="140" alt="image" src="https://github.com/user-attachments/assets/b2fb676a-afb0-48ef-914b-309b2ea38a17" />
 
 
 ## Layout
@@ -60,15 +60,13 @@ Place and connect the following components:
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
+
 ## Calculation
-<img width="918" height="1478" alt="image" src="https://github.com/user-attachments/assets/28b2ba89-fbe3-4aa0-bf6d-96e546173da0" />
-<img width="1920" height="1080" alt="Screenshot 2026-05-16 141431" src="https://github.com/user-attachments/assets/2e52f3aa-c7af-4371-9925-511146cf9f37" />
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/28b2ba89-fbe3-4aa0-bf6d-96e546173da0" />
 
-
+<img width="700" height="400" alt="Screenshot 2026-05-16 141431" src="https://github.com/user-attachments/assets/2e52f3aa-c7af-4371-9925-511146cf9f37" />
 
 ---
- Results to Record
-<img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
-
-
+## Results to Record
+<img width="700" height="500" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
